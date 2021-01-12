@@ -50,7 +50,7 @@ Ethics Papers
 Presentations
 -------------
 
- Ticketmaster Security Breach (/pdf/sample_presentation.pdf)
+### [Ticketmaster Security Breach](/pdf/sample_presentation.pdf)
 
 - Class: CSCI 301
 - Grade: 100
