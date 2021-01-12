@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:say@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [HTML Web Crawler | CSCI 315]
+### [HTML Web Crawler | CSCI 315](https://github.com/yeungs2019/csci-315-fall-2020/tree/master/project2)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
