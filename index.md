@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:say@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### HTML Web Crawler | CSCI 315
+### [HTML Web Crawler | CSCI 315]
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### RPG Team Project | CSCI 325
+### [RPG Team Project | CSCI 325]
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### League Multiplayer Project| CSCI 332
+### [League Multiplayer Project| CSCI 332]
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### Project 4 Title | CSCI 332
+### [Project 4 Title | CSCI 332]
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,16 +31,16 @@ Programming Projects
 Ethics Papers
 -------------
 
-### Therac-25 and Ethical Testing
+### [Therac-25 and Ethical Testing]
 
 -   Class: CSCI 315 
 -   Grade: 95
 
-### Copyright and Ethical Rights
+### [Copyright and Ethical Rights]
 -   Class: CSCI 301 
 -   Grade: 97
 
-### Program Creation and Storage
+### [Program Creation and Storage]
 
 -   Class: CSCI 325
 -   Grade: 100
@@ -50,7 +50,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Ticketmaster Security Breach](/pdf/sample_presentation.pdf)
+### [Ticketmaster Security Breach](/pdf/Sec.pdf)
 
 - Class: CSCI 301
 - Grade: 100
