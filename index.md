@@ -36,7 +36,7 @@ Ethics Papers
 -   Class: CSCI 315 
 -   Grade: 95
 
-### [Copyright and Ethical Rights](/pdf/Ethics Paper-converted.pdf)
+### [Copyright and Ethical Rights](/pdf/EthicsPaper-converted.pdf)
 -   Class: CSCI 301 
 -   Grade: 97
 
