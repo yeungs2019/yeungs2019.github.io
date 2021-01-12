@@ -31,16 +31,16 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Therac-25 and Ethical Testing]
+### [Therac-25 and Ethical Testing](/pdf/sample_presentation.pdf)
 
 -   Class: CSCI 315 
 -   Grade: 95
 
-### [Copyright and Ethical Rights]
+### [Copyright and Ethical Rights](/pdf/sample_presentation.pdf)
 -   Class: CSCI 301 
 -   Grade: 97
 
-### [Program Creation and Storage]
+### [Program Creation and Storage](/pdf/sample_presentation.pdf)
 
 -   Class: CSCI 325
 -   Grade: 100
