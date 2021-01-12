@@ -40,7 +40,7 @@ Ethics Papers
 -   Class: CSCI 301 
 -   Grade: 97
 
-### [Program Creation and Storage](/pdf/Ethic Paper.pdf)
+### [Program Creation and Storage](/pdf/EthicPaper.pdf)
 
 -   Class: CSCI 325
 -   Grade: 100
