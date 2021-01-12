@@ -12,12 +12,12 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [RPG Team Project | CSCI 325]
+### [RPG Team Project | CSCI 325](https://github.com/csu-cs/RPG-team-project)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [League Multiplayer Project| CSCI 332]
+### [League Multiplayer Project| CSCI 332](https://github.com/yeungs2019/League)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
