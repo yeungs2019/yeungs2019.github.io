@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [League Multiplayer Project| CSCI 332](https://github.com/yeungs2019/League)
+### [League Multiplayer Project | CSCI 332](https://github.com/yeungs2019/League)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
