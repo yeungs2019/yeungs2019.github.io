@@ -56,10 +56,10 @@ Presentations
 - Grade: 100
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [6x64 Decoder (Single Cycle Processor)](/pdf/6x64decoder.pdf)
 
-- **Class:** 
-- **Grade:**
+- Class: CSCI 330
+- Grade: 100
 
 ---
 
