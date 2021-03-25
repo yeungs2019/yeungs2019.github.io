@@ -56,7 +56,7 @@ Presentations
 - Grade: 100
 
 
-### [6x64 Decoder (Single Cycle Processor)](/pdf/6x64 decoder.pdf)
+### [6x64 Decoder (Single Cycle Processor)](/pdf/6x64decoder.pdf)
 
 - Class: CSCI 330
 - Grade: 100
