@@ -25,7 +25,7 @@ Step 5: Click Run
 ```
 
 ## UI Design
-The UI Design on this project was heavily emphasized because it ran on JavaFX, which is graphical user interface that was clickable. When the user first enters the game, they will prompted to click the start button (See Fig 1).  Once they have started, they will be asked to enter their name (See Fig 2).  After they have entered their name, they will be prompted to select a character they want to play with (See Fig 3).
+The UI Design on this project was heavily emphasized because it ran on JavaFX, which is graphical user interface that was clickable. When the user first enters the game, they will prompted to click the start button (See Fig 1).  Once they have started, they will be asked to enter their name (See Fig 2).  After they have entered their name, they will be prompted to select a character they want to play with (See Fig 3). Once they have selected their character, they are to traverse through the board
 
 ![screenshot](images/Rae1.png)
 Fig 1. The first page that will be seen when the program is first run
