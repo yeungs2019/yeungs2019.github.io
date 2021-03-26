@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/HTML.png)
 
 ---
-### [RPG Team Project | CSCI 325](https://github.com/csu-cs/RPG-team-project)
+### [Rae Riding Lesson| CSCI 495](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Rae1.png)
 
 ---
 ### [League Multiplayer Project | CSCI 332](https://github.com/yeungs2019/League)
