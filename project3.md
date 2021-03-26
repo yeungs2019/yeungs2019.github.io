@@ -5,7 +5,7 @@ Role Playing Game
 
 -   **Class: CSCI 325** 
 -   **Grade: 100**
--   **Language(s): Java**
+-   **Language(s): Java, JavaFX**
 -   **Source Code Repository:** [yeungs2019RPG](https://github.com/Epowell50/CSCI-495-Team-Project)  
     (Please [email me](mailto:sayeung@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -17,13 +17,15 @@ This project was required for the completion of CSCI 325.  It was a very large p
 How to compile (if applicable) and run the project.
 
 ```bash
-This was a localized project.  All you need is to download the repository and have Visual Studio to run.
-No commands were necessary to run the program.
+Step 1: Install NetBeans IDE version 8.1 or later 
+Step 2: Download all files from github repository and place in a singular folder 
+Step 3: Launch NetBeans IDE and select the project that needs to be ran
+Step 4: Open project and the classes that are available.
+Step 5: Click Run
 ```
 
 ## UI Design
-
-This project focused heavily on UI design because it involved designing a website for clients who desire horseback riding lessons.  When starting up the website (See Fig.1), the user will be greeted by the home page of the website.  If the user does not have an account, he/she will be able to create one by clicking the SignUp button on the top right hand corner.  Otherwise, they would click Login.  Once the user clicks SignUp (See Fig.2), the user is prompted to fill in personal information.  Once the information is filled in, the user will then be asked to confirm their account by visiting their email (See Fig.3).  Once their account is confirmed, they are prompted to a login page (See Fig.4) and are now allowed to sign up for horse back riding lessons.  Once logged in, they are greeted with a home page similar to Fig.1 (See Fig.5). Once there, they will be able to sign up for horse back riding lessons by clicking the schedule dropdown banner.  Here, they will be directed a page where they will be able to pick the type of lesson and when it will be held (See Fig.6).  If the user is unable to attend that date and/or time he/she has selected.  The user is able to update their time to another (See Fig. 7).  Once the user has updated thier time, fig. 6 will be updated alongside it. The user will also have the ability to update their personal information if they have previously made an error (See Fig. 8)
+The UI Design on this project was heavily emphasized because it ran on JavaFX, which is graphical user interface that was clickable. When the user first enters the game, they will prompted to click the start button (See Fig 1).  Once they have started, they will be asked to enter their name (See Fig 2).  After they have entered their name, they will be prompted to select a character they want to play with (See Fig 3).
 
 ![screenshot](images/Rae1.png)
 Fig 1. The first page that will be seen when the program is first run
