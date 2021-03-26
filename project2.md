@@ -24,30 +24,34 @@ No commands were necessary to run the program.
 
 ## UI Design
 
-This project focused heavily on UI design because it involved designing a website for clients who desire horseback riding lessons.  When starting up the website (See Fig.1), the user will be greeted by the home page of the website.  If the user does not have an account, he/she will be able to create one by clicking the SignUp button on the top right hand corner.  Otherwise, they would click Login.  Once the user clicks SignUp (See Fig.2), the user is prompted to fill in personal information.  Once the information is filled in, the user will then be asked to confirm their account by visiting their email (See Fig.3).  Once their account is confirmed, they are prompted to a login page (See Fig.4) and are now allowed to sign up for horse back riding lessons.  Once logged in, they are greeted with a home page similar to Fig.1 (See Fig.5). Once there, they will be able to sign up for horse back riding lessons by clicking the schedule dropdown banner.  Here, they will be directed a page where they will be able to pick the type of lesson and when it will be held (See Fig.6).  If the user is
+This project focused heavily on UI design because it involved designing a website for clients who desire horseback riding lessons.  When starting up the website (See Fig.1), the user will be greeted by the home page of the website.  If the user does not have an account, he/she will be able to create one by clicking the SignUp button on the top right hand corner.  Otherwise, they would click Login.  Once the user clicks SignUp (See Fig.2), the user is prompted to fill in personal information.  Once the information is filled in, the user will then be asked to confirm their account by visiting their email (See Fig.3).  Once their account is confirmed, they are prompted to a login page (See Fig.4) and are now allowed to sign up for horse back riding lessons.  Once logged in, they are greeted with a home page similar to Fig.1 (See Fig.5). Once there, they will be able to sign up for horse back riding lessons by clicking the schedule dropdown banner.  Here, they will be directed a page where they will be able to pick the type of lesson and when it will be held (See Fig.6).  If the user is unable to attend that date and/or time he/she has selected.  The user is able to update their time to another (See Fig. 7).  Once the user has updated thier time, fig. 6 will be updated alongside it. The user will also have the ability to update their personal information if they have previously made an error (See Fig. 8)
 
-![smol](images/Rae1.png)
-Fig 1. The results when given various HTML pages
+![screenshot](images/Rae1.png)
+Fig 1. The first page that will be seen when the program is first run
 
 ![screenshot](images/Rae2.png)
-Fig 2. The results when given various HTML pages
+Fig 2. The page when user clicks signup
 
 ![screenshot](images/Rae3.png)
-Fig 3 The results when given various HTML pages
+Fig 3 After sign up is successful, the user will be asked to confirm.
 
 ![screenshot](images/Rae4.png)
-Fig 4. The results when given various HTML pages
+Fig 4. The login page
 
 ![screenshot](images/Rae5.png)
-Fig 5. The results when given various HTML pages
+Fig 5. After login is successful, the user is greeted with message
 
 ![screenshot](images/Rae8.png)
-Fig 6. The results when given various HTML pages
+Fig 6. The user scheduling his/her appointment
 
+![screenshot](images/Rae10.png)
+Fig 7. The user's ability to reschedule
+
+![screenshot](images/Rae11.png)
+Fig 8. The user's ability to change personal information
 
 ## 3. Additional Considerations
-
-This project was created as review of data structures that are useful in day to day coding environments.
+This project gave a view of what it is actually like in the real workplace.  Deadlines had to be made.  Communication was a key factor for success. It was an extensive team project that took time to develop.  Credit to those involved in the large team project.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
