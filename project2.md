@@ -18,8 +18,11 @@ This team project was required in fulfillment of CSCI 495.  It involved designin
 How to compile (if applicable) and run the project.
 
 ```bash
-This was a localized project.  All you need is to download the repository and have Visual Studio to run.
-No commands were necessary to run the program.
+This was a localized project.
+1. Download Visual Basic 
+2. Download SQL and T SQL
+3. Download the GitHub Repository Contents into one folder
+4. Click Run.
 ```
 
 ## UI Design
