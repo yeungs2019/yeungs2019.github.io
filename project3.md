@@ -34,7 +34,7 @@ Fig 1. The first page that will be seen when the program is first run
 Fig 2. The dialog box when the player begins the game
 
 ![screenshot](images/Player_Selection.JPG)
-Fig 3 After player has entered their name, they are to select a character to play with.
+Fig 3. After player has entered their name, they are to select a character to play with.
 
 ![screenshot](images/whole_board_reveal.JPG)
 Fig 4. The board that reveals all of the puzzles and items
