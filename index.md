@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/whole_board_reveal.JPG)
 
 ---
-### [Perl Hash Table| CSCI 301]
+### [Perl Hash Table with text file modification | CSCI 301](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/sc2.png)
 
 ---
 
