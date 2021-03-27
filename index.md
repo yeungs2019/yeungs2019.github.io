@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/Rae1.png)
 
 ---
-### [League Multiplayer Project | CSCI 332](https://github.com/yeungs2019/League)
+### [Role Playing Game | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/whole_board_reveal.JPG)
 
 ---
-### [Project 4 Title | CSCI 332]
+### [Perl Hash Table| CSCI 301]
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
