@@ -6,7 +6,7 @@ Role Playing Game
 -   **Class: CSCI 325** 
 -   **Grade: 100**
 -   **Language(s): Java, JavaFX**
--   **Source Code Repository:** [yeungs2019RPG](https://github.com/csu-cs/RPG-team-project)  
+-   **Source Code Repository:** [yeungs2019RPG](https://github.com/yeungs2019/RPG-Transfer)  
     (Please [email me](mailto:sayeung@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
