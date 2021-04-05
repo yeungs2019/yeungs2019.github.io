@@ -6,7 +6,7 @@ Perl Hash Table
 -   **Class: CSCI 301** 
 -   **Grade: 100**
 -   **Language(s): Perl**
--   **Source Code Repository:** [yeungs2019Perl](https://github.com/yeungs2019/csci-301-spring-2020/tree/master/lab04)  
+-   **Source Code Repository:** [yeungs2019Perl](https://github.com/yeungs2019/HashTable/tree/master)  
     (Please [email me](mailto:sayeung@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
