@@ -6,7 +6,7 @@ HTML Web Crawler
 -   **Class: CSCI 315** 
 -   **Grade: 100**
 -   **Language(s): C++**
--   **Source Code Repository:** [yeungs2019WebCrawler](https://github.com/yeungs2019/csci-315-fall-2020/tree/master/project2)  
+-   **Source Code Repository:** [yeungs2019WebCrawler](https://github.com/yeungs2019/HTMLParser)  
     (Please [email me](mailto:sayeung@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
