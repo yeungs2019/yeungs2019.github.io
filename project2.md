@@ -6,7 +6,7 @@ Rae Riding Lesson
 -   **Class: CSCI 495** 
 -   **Grade: 100**
 -   **Language(s): T SQL, HTML, CSS**
--   **Source Code Repository:** [yeungs2019RidingLesson](https://github.com/Epowell50/CSCI-495-Team-Project)  
+-   **Source Code Repository:** [yeungs2019RidingLesson](https://github.com/yeungs2019/RaeRiding)  
     (Please [email me](mailto:sayeung@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
