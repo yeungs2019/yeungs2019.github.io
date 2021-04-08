@@ -46,6 +46,7 @@ Provided one-on-one tutoring for students in fields of algebra, trigonometry, pr
 - Taught students effective note taking, studying, and test-taking skills.
  
 <h2 align="center">Skills</h2>
+
 -        C++ 
 -        Java 
 -        Data Structures
