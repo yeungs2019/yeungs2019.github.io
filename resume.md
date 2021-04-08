@@ -28,7 +28,7 @@ Charleston Southern University, North Charleston, SC
 
 <h2 align="center">Experience</h2>
 <h2>Charleston Southern University, North Charleston, SC</h2>
-<h3 align="center">Team Project Manager (January 2021 – Present)</h3>
+<h3>Team Project Manager (January 2021 – Present)</h3>
 Leading a team of other computer science students in a in an agile environment that focused on website design.  This website will be able to host on many devices including mobile, desktop, and application.
 -        Met with team members on a weekly basis to clarify any issues and resolve them.
 -        Involved in creating a component design document to be efficient in the project.
