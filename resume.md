@@ -37,7 +37,7 @@ Leading a team of other computer science students in a in an agile environment t
 
 
 <h2>Charleston Southern University, North Charleston, SC<h2>
-<h3>Mathematics Tutor (August 2020 – Present)<h3>
+<h3>Mathematics Tutor (August 2020 – Present)</h3>
 Provided one-on-one tutoring for students in fields of algebra, trigonometry, precalculus, and calculus. 
  
 - Met students virtually or in person to resolve confusion in any mathematics concepts.
