@@ -1,4 +1,4 @@
-                                 # Steven Yeung
+<h1 align="center">Steven Yeung</h1>
 159 Hearthstone Cir. * Goose Creek, SC 29445 * (843) 419-1021 * sayeung@csustudent.net
        Overview
 Experienced computer scientist with experience in teamwork and time management.  Proficient in communication skills.  Fluent in Chinese.
