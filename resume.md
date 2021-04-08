@@ -3,6 +3,7 @@
 <h2 align="center">Overview</h2>
 Experienced computer scientist with experience in teamwork and time management.  Proficient in communication skills.  Fluent in Chinese.
 <h2 align="center">Education</h2>
+
 Charleston Southern University, North Charleston, SC
 
 Bachelor of Science in Computer Science
